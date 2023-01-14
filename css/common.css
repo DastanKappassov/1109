@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+}
+body,h1,h2,h3,h4,h5,h6,p,ul,li,a{
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+address{
+    font-style: normal;
+}
+#container{
+    width: 1200px;
+    height: 700px;
+    margin: 0 auto;
+}
